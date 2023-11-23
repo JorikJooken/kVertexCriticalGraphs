@@ -1,5 +1,5 @@
 # k-vertex-critical 
-This repository contains code for exhaustively generating k-vertex-critical (P_t,F)-free graphs.
+This repository contains code for exhaustively generating k-vertex-critical (P_t,F)-free graphs (see e.g. the paper "Critical (P_5,Dart)-free graphs" at https://arxiv.org/pdf/2308.03414.pdf).
 
 The program can be compiled by using
 ```bash
